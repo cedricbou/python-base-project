@@ -1,8 +1,9 @@
+"""Check test build process test case"""
 from unittest import TestCase
 
-import foo
-
 class TestFoo(TestCase):
-   def test_is_string(self):
-      self.assertTrue(True)
+    "Dummy test case"
 
+    def test_is_string(self):
+        "assert always true"
+        self.assertTrue(1 == 1)
