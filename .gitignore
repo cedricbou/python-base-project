@@ -1,0 +1,7 @@
+*.egg-info/
+.eggs/
+.cache/
+.tox/
+MANIFEST
+*.pyc
+__pycache__
