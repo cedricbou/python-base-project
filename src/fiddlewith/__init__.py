@@ -1,1 +1,1 @@
-"""Fiddlewith test coverage module"""
+"""Demonstration classes package"""

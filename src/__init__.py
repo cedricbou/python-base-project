@@ -1,1 +1,1 @@
-"""The src package for application code source"""
+"""The source folder"""

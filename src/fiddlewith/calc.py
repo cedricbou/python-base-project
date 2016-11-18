@@ -1,5 +1,5 @@
 """Demonstration classes"""
-class Fiddlewith:
+class Calculator:
     """Demonstration class for test coverage"""
 
     def __init__(self):
